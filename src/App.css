@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  font-family: Inter, Roboto, Arial, sans-serif;
+}
+button:hover {
+  opacity: 0.9;
+}
+
+/* You can leave both empty or keep basic reset */
+body {
+  margin: 0;
+  padding: 0;
+  background: #fafafa;
+}
